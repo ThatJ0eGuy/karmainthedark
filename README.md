@@ -18,3 +18,5 @@ Rebel Red: https://user-images.githubusercontent.com/72067109/94866836-fed4bf80-
 ToothRougeA: https://user-images.githubusercontent.com/72067109/94870034-7b6a9c80-043e-11eb-969d-f0b0227c084d.png
 ToothRougeB: https://user-images.githubusercontent.com/72067109/94870076-93422080-043e-11eb-82e5-3cd22042dfd4.png
 ToothRougeC: https://user-images.githubusercontent.com/72067109/94870116-ace36800-043e-11eb-8032-ae2e1f1d9c7f.png
+
+Fortuna Red/Yellow: https://user-images.githubusercontent.com/72067109/94917549-a558a900-04a8-11eb-803e-995e064218d9.png
