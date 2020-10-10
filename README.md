@@ -8,6 +8,8 @@ SkillrollPurple: https://user-images.githubusercontent.com/72067109/94869777-ecf
 
 Broadcast Green A: https://user-images.githubusercontent.com/72067109/94867163-933f2200-0438-11eb-9c65-6f4ff51857f9.png
 Broadcast Green B: https://user-images.githubusercontent.com/72067109/94867437-2d06cf00-0439-11eb-9b7c-00699c88f6e1.png 
+Broadcast Blue A: https://user-images.githubusercontent.com/72067109/95656747-50e8a580-0b08-11eb-896e-a7d022941a8b.png
+Broadcast Blue B: https://user-images.githubusercontent.com/72067109/95656701-f7807680-0b07-11eb-87ed-ffd00d178f4f.png
 
 Resist Red: https://user-images.githubusercontent.com/72067109/94866753-d947b600-0437-11eb-8220-45c77edfb7bd.png
 Resist Purple: https://user-images.githubusercontent.com/72067109/94866771-e2d11e00-0437-11eb-9df9-0afebe803fb8.png
