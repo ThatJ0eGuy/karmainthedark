@@ -6,7 +6,7 @@ SkillrollPurple: https://user-images.githubusercontent.com/72067109/94853921-025
 SkillrollRedA: https://user-images.githubusercontent.com/72067109/94853954-10ac6780-0424-11eb-9372-85f9e528e39b.png
 SkillrollPurple: https://user-images.githubusercontent.com/72067109/94869777-ecf61b00-043d-11eb-9626-d21a9e65c213.png
 SkillrollBlue1: https://user-images.githubusercontent.com/72067109/95656865-0a477b00-0b09-11eb-9dc1-9eefb186228d.png
-SkillrollBlue2: https://user-images.githubusercontent.com/72067109/95656953-893cb380-0b09-11eb-9712-2fba71684d84.png
+SkillrollBlue2: https://user-images.githubusercontent.com/72067109/95659311-171f9b00-0b18-11eb-99c6-3bc000a78d42.png
 
 Broadcast Green A: https://user-images.githubusercontent.com/72067109/94867163-933f2200-0438-11eb-9c65-6f4ff51857f9.png
 Broadcast Green B: https://user-images.githubusercontent.com/72067109/94867437-2d06cf00-0439-11eb-9b7c-00699c88f6e1.png 
@@ -18,8 +18,9 @@ Broadcast Red B: https://user-images.githubusercontent.com/72067109/95657289-982
 Resist Red: https://user-images.githubusercontent.com/72067109/94866753-d947b600-0437-11eb-8220-45c77edfb7bd.png
 Resist Purple: https://user-images.githubusercontent.com/72067109/94866771-e2d11e00-0437-11eb-9df9-0afebe803fb8.png
 Resist Orange: https://user-images.githubusercontent.com/72067109/95657041-38798a80-0b0a-11eb-9adf-98c37186e702.png
-Resist Rouge: https://user-images.githubusercontent.com/72067109/95658519-ebe67d00-0b12-11eb-9255-3fd9bb4e2408.png
-ResistPure Red: https://user-images.githubusercontent.com/72067109/95658614-ac6c6080-0b13-11eb-953d-15d3ae322e31.png
+Resist Rouge: https://user-images.githubusercontent.com/72067109/95659595-ff491680-0b19-11eb-854c-78de4fd8d202.png
+ResistPure Red: https://user-images.githubusercontent.com/72067109/95659768-39ff7e80-0b1b-11eb-9281-205879df931b.png
+ResistPure Yellow: https://user-images.githubusercontent.com/72067109/95659719-df662280-0b1a-11eb-9234-e1b6c65d1db7.png
 
 Rebel Purple: https://user-images.githubusercontent.com/72067109/94866809-f3819400-0437-11eb-99c4-b99d4cba82e7.png
 Rebel Red: https://user-images.githubusercontent.com/72067109/94866836-fed4bf80-0437-11eb-8322-e8b2e2066fcc.png
@@ -33,5 +34,5 @@ Fortune Yellow Dark: https://user-images.githubusercontent.com/72067109/94920009
 FortunePure Yellow: https://user-images.githubusercontent.com/72067109/95657629-5ac0d780-0b0d-11eb-9ac2-2deeb9620064.png
 Fortune Blueish: https://user-images.githubusercontent.com/72067109/95658744-914e2080-0b14-11eb-9b23-fb5664fdf2b6.png
 
-Vice Blue: https://user-images.githubusercontent.com/72067109/95657785-46310f00-0b0e-11eb-91b4-55e54621fadd.png
+Vice Blue: https://user-images.githubusercontent.com/72067109/95659412-c9eff900-0b18-11eb-9b31-4961ae5b9ac9.png
 Vice Red: https://user-images.githubusercontent.com/72067109/95657859-bb9cdf80-0b0e-11eb-86a5-8629d043d082.png
