@@ -34,5 +34,5 @@ Fortune Yellow Dark: https://user-images.githubusercontent.com/72067109/94920009
 FortunePure Yellow: https://user-images.githubusercontent.com/72067109/95657629-5ac0d780-0b0d-11eb-9ac2-2deeb9620064.png
 Fortune Blueish: https://user-images.githubusercontent.com/72067109/95658744-914e2080-0b14-11eb-9b23-fb5664fdf2b6.png
 
-Vice Blue: https://user-images.githubusercontent.com/72067109/95659412-c9eff900-0b18-11eb-9b31-4961ae5b9ac9.png
+Vice Blue: https://user-images.githubusercontent.com/72067109/95659952-84352f80-0b1c-11eb-99d1-e9814dc30b16.png
 Vice Red: https://user-images.githubusercontent.com/72067109/95657859-bb9cdf80-0b0e-11eb-86a5-8629d043d082.png
