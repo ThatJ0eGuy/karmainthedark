@@ -64,7 +64,7 @@ Rouge Set 2
 -------------------
 XPToothWhite: https://user-images.githubusercontent.com/72067109/96338364-5c4a4c80-1085-11eb-9d44-86aff97b506e.png
 XPToothRouge: https://user-images.githubusercontent.com/72067109/96339263-87379f00-108b-11eb-9f73-10ef51acd6df.png
-XPToothYellow: https://user-images.githubusercontent.com/72067109/96339239-58b9c400-108b-11eb-8e3b-63fe374dbba5.png
+XPToothYellow: https://user-images.githubusercontent.com/72067109/96369938-288a2800-1154-11eb-8373-234ebe150b1a.png
 XPToothOrange: https://user-images.githubusercontent.com/72067109/96368830-3a68cc80-114e-11eb-8e2f-0a4abb70f2d8.png
 RegularToothGrey: https://user-images.githubusercontent.com/72067109/96339891-48a3e380-108f-11eb-9751-4816fe626445.png
 RegularToothRouge: https://user-images.githubusercontent.com/72067109/96339890-46da2000-108f-11eb-86fe-8dc44fe4acb1.png
