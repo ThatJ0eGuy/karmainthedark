@@ -45,6 +45,7 @@ Fortune Red/Yellow: https://user-images.githubusercontent.com/72067109/95658388-
 Fortune Yellow Dark: https://user-images.githubusercontent.com/72067109/94920009-5bbe8d00-04ad-11eb-92a0-17763ee17ce5.png
 FortunePure Yellow: https://user-images.githubusercontent.com/72067109/95657629-5ac0d780-0b0d-11eb-9ac2-2deeb9620064.png
 Fortune Blueish: https://user-images.githubusercontent.com/72067109/95658744-914e2080-0b14-11eb-9b23-fb5664fdf2b6.png
+Fortune Glow: https://user-images.githubusercontent.com/72067109/96373943-93912a00-1167-11eb-847d-5f4c92ada0ae.png
 
 Teeth
 ------------
@@ -66,7 +67,7 @@ XPToothWhite: https://user-images.githubusercontent.com/72067109/96338364-5c4a4c
 XPToothRouge: https://user-images.githubusercontent.com/72067109/96339263-87379f00-108b-11eb-9f73-10ef51acd6df.png
 XPToothYellow: https://user-images.githubusercontent.com/72067109/96369938-288a2800-1154-11eb-8373-234ebe150b1a.png
 XPToothOrange: https://user-images.githubusercontent.com/72067109/96368830-3a68cc80-114e-11eb-8e2f-0a4abb70f2d8.png
-RegularToothGrey: https://user-images.githubusercontent.com/72067109/96339891-48a3e380-108f-11eb-9751-4816fe626445.png
-RegularToothRouge: https://user-images.githubusercontent.com/72067109/96339890-46da2000-108f-11eb-86fe-8dc44fe4acb1.png
+RegularToothGrey: https://user-images.githubusercontent.com/72067109/96374849-38facc80-116d-11eb-9b1e-1a85242e0a0d.png
+RegularToothRouge: https://user-images.githubusercontent.com/72067109/96374847-38623600-116d-11eb-9d4c-002b3a362870.png
 StresstoothWhite: https://user-images.githubusercontent.com/72067109/96344265-0c25b700-1092-11eb-8ea2-6f03f22d8284.png
 StresstoothRed: https://user-images.githubusercontent.com/72067109/96344242-0af48a00-1092-11eb-9462-787f46b02da3.png
